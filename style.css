@@ -1,3 +1,13 @@
-h1 {
-    color: blueviolet;
+.box{
+    background: linear-gradient(181deg,rgb(2,0,110) 15%,rgb(97,149,219)158.5%);
+    cursor: pointer;
+    color: aliceblue;
+    border-radius: 8px;
+    width: 750px;
+    padding: 10px;
+    margin: 14px auto;
+    margin-bottom: 0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+
+
